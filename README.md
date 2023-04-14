@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <h1>TabNews - Links Redes Sociais</h1>
+    <h1>📰 TabNews - Links Redes Sociais</h1>
     <p>Esta é uma página web simples criada usando React que exibe links das redes sociais. Os links são exibidos em Botões e você pode alternar entre eles clicando</p>
     <h2>Como usar</h2>
     <p>Para usar este projeto, você pode seguir estes passos:</p>
