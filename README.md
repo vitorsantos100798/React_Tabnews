@@ -6,7 +6,8 @@
   </head>
   <body>
     <h1>📰 TabNews - Links Redes Sociais</h1>
-    <p>Esta é uma página web simples criada usando React que exibe links das redes sociais. Os links são exibidos em Botões e você pode alternar entre eles clicando</p>
+    <p>Esta é uma página web simples criada usando React que exibe links das redes sociais. 
+      Os links são exibidos em Botões e você pode alternar entre eles clicando</p>
     <h2>Como usar</h2>
     <p>Para usar este projeto, você pode seguir estes passos:</p>
     <ol>
